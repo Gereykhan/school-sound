@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.package_item-img{
+    width: 209px;
+    height: 402px;
+    background-image: url("../img/product-cover-233\ sec-.png");
+}
+.wrapper {
+    width: 1050px;
+    margin: 0 auto;
+}
+.item-sale{
+    
+}
+.subscribe{
+    margin: 100px 0;
+    padding: 160px 0;
+    background-color: #E6E6E6;
+}
+.subscribe-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+
+.form-subs input{
+    width: 620px;
+    height: 58px;
+    padding: 15px 20px;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    outline: none;
+    
+}
+.form-subs button {
+    border: 0;
+    padding: 36px;
+    margin-left: -6px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border: 1px solid #E6E6E6;
+    font-size: 14px;
+    font-weight: 100px;
+    
+    
+}
+.btn_btn-primary{ 
+    color: #fff;
+    background: #96BB7C;
+    border: 1px solid #E6E6E6;
+    border-radius: 0px 5px 5px 0px;
+
+}
+.btn_btn-primary:hover{
+    background: #d75b14;
+}
+
+
+
+.form-subs button:hover{
+    cursor: pointer;
+}
